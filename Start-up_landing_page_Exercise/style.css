@@ -1,0 +1,36 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: rgb(193, 160, 245);
+}
+
+.navbar  {
+  background-color:  rgb(169, 160, 245) !important;
+ 
+ }
+
+
+
+.card {
+  background-color: rgba(160, 245, 217, 0.247);
+}
+
+
+
+footer {
+  border-radius: 10px;
+  border: solid 5px silver;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
